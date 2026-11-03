@@ -12,6 +12,10 @@ The robot was assembled following the [official Keyestudio instructions](https:/
 
 ![Robot car opposite side view](images/IMG_4.jpeg)
 
+## Actual Wiring diagram
+
+![Actual Wiring diagram](images/Wiring diagram.png)
+
 ## Board and port
 
 - **Board:** AI Thinker ESP32-CAM
