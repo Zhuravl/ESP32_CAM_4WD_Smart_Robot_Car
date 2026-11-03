@@ -14,7 +14,7 @@ The robot was assembled following the [official Keyestudio instructions](https:/
 
 ## Actual Wiring diagram
 
-![Actual Wiring diagram](images/Wiring diagram.png)
+![Actual Wiring diagram](images/Wiring_diagram.png)
 
 ## Board and port
 
